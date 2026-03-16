@@ -5,7 +5,7 @@ Générateur de Rapport des Ventes - GUEDE OIL SARL
 Script pour générer des rapports de ventes détaillés à partir du fichier MBACKE.xlsm
 
 Usage:
-    python3 rapport_ventes.py [--month MOIS] [--location DST] [--output FORMAT]
+    python3 rapport_ventes.py [--mois MOIS] [--destination DST] [--export FICHIER]
 """
 
 import openpyxl
